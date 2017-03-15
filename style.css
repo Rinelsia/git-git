@@ -1,0 +1,33 @@
+.header{
+ 
+    background: #CCA16D;
+    box-shadow: 1px 1px 1px #000;
+}
+.content{
+    
+    background-color: #cc55ff; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+.footer{
+    
+    background-image: url('../asr.gif');
+}
+h1,h2{
+    text-align: center;
+    box-shadow: 1px 1px 1px #000;
+}
+.level-2{
+    font-family: Tahoma, sans-serif;
+    text-decoration: underline;
+    font-size: 30px;
+    color: aqua;
+}
+div{
+    height: 200px;
+    width: 50%;
+}
+ul{
+    list-style-type: none;    
+}
