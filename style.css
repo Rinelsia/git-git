@@ -12,7 +12,7 @@
 }
 .footer{
     
-    background-image: url('../asr.gif');
+    background-image: url('asr.gif');
 }
 h1,h2{
     text-align: center;
@@ -21,8 +21,11 @@ h1,h2{
 .level-2{
     font-family: Tahoma, sans-serif;
     text-decoration: underline;
-    font-size: 30px;
+    font-size: 20px;
     color: aqua;
+}
+.level-2 a{
+    color: chartreuse;
 }
 div{
     height: 200px;
@@ -30,4 +33,7 @@ div{
 }
 ul{
     list-style-type: none;    
+}
+span{
+    
 }
